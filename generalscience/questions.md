@@ -400,3 +400,123 @@ Remember these frameworks:
 
 ---
 
+
+
+
+# 🩺 AETCOM FINAL – EXTRA HIGH-YIELD QUESTIONS (EDGE SCORING)
+
+---
+
+## 1. Therapeutic Privilege
+
+### Definition
+Doctor may withhold information if disclosure may harm the patient.
+
+### Key Points
+- Rarely used
+- Must be justified
+- Cannot violate patient autonomy unnecessarily
+
+---
+
+## 2. Capacity vs Competence
+
+### Capacity
+- Clinical assessment by doctor
+- Decision-specific and dynamic
+
+### Competence
+- Legal determination by court
+
+---
+
+## 3. Advance Directives / Living Will
+
+### Definition
+Written statement of patient’s wishes regarding future medical care.
+
+### Importance
+- Guides end-of-life decisions
+- Legally valid in India
+
+---
+
+## 4. Do Not Resuscitate (DNR)
+
+### Definition
+Order to withhold CPR in terminally ill patients.
+
+### Key Points
+- Requires consent
+- Must be documented
+- Ethical justification needed
+
+---
+
+## 5. Conflict of Interest
+
+### Definition
+When personal interest affects professional judgment.
+
+### Examples
+- Pharma sponsorships
+- Financial benefits
+
+---
+
+## 6. Medical Errors vs Negligence
+
+### Medical Error
+- Unintentional mistake
+
+### Negligence
+- Failure to meet standard care
+
+---
+
+## 7. Informed Refusal
+
+### Definition
+Patient has right to refuse treatment after understanding risks.
+
+---
+
+## 8. Assent in Pediatrics
+
+### Definition
+Agreement from child (not legally valid but ethically important)
+
+---
+
+## 9. Placebo Use in Practice
+
+### Ethical Conditions
+- No harm
+- Patient awareness (in research)
+
+---
+
+## 10. Documentation in Medical Practice
+
+### Importance
+- Legal protection
+- Continuity of care
+
+### Must Include
+- History
+- Examination
+- Diagnosis
+- Treatment
+- Consent
+
+---
+
+# ⭐ FINAL MICRO-TIP
+If AETCOM question is confusing:
+👉 Always write:
+- Autonomy  
+- Beneficence  
+- Non-maleficence  
+- Justice  
+
+---
